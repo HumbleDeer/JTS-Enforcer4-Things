@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "fp-lib-table") (type "Table") (uri "D:/Documents/GitHub/JTS-Enforcer4-Things/fp-lib-table") (options "") (descr ""))
+	(lib (name "JTS-Enforcer4-Things.pretty") (type "KiCad") (uri "D:/Documents/GitHub/JTS-Enforcer4-Things/JTS-Enforcer4-Things.pretty") (options "") (descr ""))
+)

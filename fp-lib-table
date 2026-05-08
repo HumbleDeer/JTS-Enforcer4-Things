@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "JTS-Enforcer4-Things") (type "KiCad") (uri "../JTS-Enforcer4-Things.pretty") (options "") (descr ""))
+)
